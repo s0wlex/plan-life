@@ -1,0 +1,52 @@
+{
+  "name": "План жизни — конструктор",
+  "short_name": "План жизни",
+  "description": "Персональный план: калории, тренировки, режим дня и доказательная база советов.",
+  "start_url": "Конструктор_плана_жизни.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FAF9F6",
+  "theme_color": "#FAF9F6",
+  "lang": "ru",
+  "dir": "ltr",
+  "categories": [
+    "health",
+    "lifestyle",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Конструктор",
+      "url": "Конструктор_плана_жизни.html"
+    },
+    {
+      "name": "HabitGrid",
+      "url": "habitgrid.html"
+    },
+    {
+      "name": "База знаний",
+      "url": "База_знаний.html"
+    }
+  ]
+}
